@@ -5,6 +5,7 @@ const Check = styled.input`
   width: 30px;
   height: 30px;
   border-radius: 10%;
+  
 `;
 const Ul = styled.ul`
   font-family: sans-serif;
@@ -20,6 +21,7 @@ const Li = styled.li`
   border: 1px dotted #326d7d;
   border-radius: 10px;
   background-color: #cafae8;
+  padding-top: 5px;
 `;
 const Butt = styled.button`
   border-radius: var(--border-button-border-radius, 4px) !important;
