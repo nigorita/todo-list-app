@@ -15,7 +15,7 @@ const Li = styled.li`
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  width: 40%;
+  width: 50%;
   margin: auto;
   border: 1px dotted #326d7d;
   border-radius: 10px;
@@ -128,7 +128,7 @@ const Input = styled.input`
   border: none;
   border-radius: 3px;
   padding-left: 15px;
-  width: 600px;
+  width: 500px;
   height: 30px;
 `;
 
