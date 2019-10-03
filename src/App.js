@@ -128,7 +128,7 @@ const Input = styled.input`
   border: none;
   border-radius: 3px;
   padding-left: 15px;
-  width: 400px;
+  width: 600px;
   height: 30px;
 `;
 
