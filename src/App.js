@@ -5,7 +5,6 @@ const Check = styled.input`
   width: 30px;
   height: 30px;
   border-radius: 10%;
-  
 `;
 const Ul = styled.ul`
   font-family: sans-serif;
@@ -129,7 +128,7 @@ const Input = styled.input`
   border: none;
   border-radius: 3px;
   padding-left: 15px;
-  width: 300px;
+  width: 400px;
   height: 30px;
 `;
 
